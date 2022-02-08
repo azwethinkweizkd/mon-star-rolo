@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mon-star-rolo/static/css/main.da6731d7.css",
+    "main.js": "/mon-star-rolo/static/js/main.5a6c1903.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/mon-star-rolo/static/js/787.e4e9b7ff.chunk.js",
+    "index.html": "/mon-star-rolo/index.html",
+    "main.da6731d7.css.map": "/mon-star-rolo/static/css/main.da6731d7.css.map",
+    "main.5a6c1903.js.map": "/mon-star-rolo/static/js/main.5a6c1903.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/mon-star-rolo/static/js/787.e4e9b7ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da6731d7.css",
+    "static/js/main.5a6c1903.js"
+  ]
+}
